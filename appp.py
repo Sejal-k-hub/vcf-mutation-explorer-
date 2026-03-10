@@ -131,6 +131,6 @@ if files:
             barmode="stack"
         )
 
-        st.plotly
+        st.plotly_chart(fig_effect)
 
 
