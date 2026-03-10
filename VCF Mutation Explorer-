@@ -1,0 +1,13 @@
+VCF Mutation Explorer
+
+A Streamlit dashboard for analyzing bacterial mutations from VCF files.
+
+Features
+- Multi-sample VCF analysis
+- Mutation visualization
+- Gene mutation explorer
+- Colistin resistance gene detection
+- Automatic resistance prediction
+
+Live App:
+https://ckshfyekt5qfczpqhhvyfn.streamlit.app
